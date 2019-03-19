@@ -46,4 +46,3 @@ for w in by_word:
        if c in w:
            count += 1
            print("Sentence choosen by program:", w," -- what is the keyword and how many times occurs? ->", c )
-           
